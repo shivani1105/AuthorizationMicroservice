@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorizationMicroservice", "AuthorizationMicroservice.csproj", "{95BF8355-BB19-4566-B0F2-B14CF36F997B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationTesting", "..\AuthorizationTesting\AuthorizationTesting.csproj", "{76040C86-7A6A-4950-9037-49B44E8D1E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95BF8355-BB19-4566-B0F2-B14CF36F997B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BF8355-BB19-4566-B0F2-B14CF36F997B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BF8355-BB19-4566-B0F2-B14CF36F997B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BF8355-BB19-4566-B0F2-B14CF36F997B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76040C86-7A6A-4950-9037-49B44E8D1E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76040C86-7A6A-4950-9037-49B44E8D1E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76040C86-7A6A-4950-9037-49B44E8D1E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76040C86-7A6A-4950-9037-49B44E8D1E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6ACF676-D3A1-45B7-A928-C3149CBA215B}
+	EndGlobalSection
+EndGlobal
